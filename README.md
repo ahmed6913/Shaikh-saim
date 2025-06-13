@@ -1,4 +1,3 @@
-# shaikh saim
 
 <h1 align="center">👋 Hi, I'm Shaikh Saim</h1>
 <p align="center">
