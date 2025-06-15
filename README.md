@@ -11,7 +11,7 @@
 
 - 🔭 Currently building next-gen dApps at my Web3 startup
 - 🌐 Skilled in Solidity, React, Node.js, and smart contract architecture
-- 🛠️ Exploring CI/CD, Docker, and cloud infra for scalable deployment
+- 🛠️ Exploring CI/CD, GitHub Action, and cloud infra for scalable deployment
 - 📈 Passionate about open-source, decentralization, and disruptive tech
 
 ---
@@ -22,7 +22,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
