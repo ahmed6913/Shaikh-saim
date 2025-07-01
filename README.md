@@ -62,3 +62,8 @@
 
 ---
 
+### 📜 License (MIT)
+
+This project is open-source under the MIT License.
+You can use, copy, modify, and distribute it for free — just give credit.
+No warranty provided.
