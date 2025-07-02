@@ -20,6 +20,11 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Thirdweb](https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjEiIGhlaWdodD0iMjEiIHZpZXdCb3g9IjAgMCAyMSAyMSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwLjM0NCAwTDcuODQ2IDYuMDc1TDEwLjY4NiAxMi4yODZIMTQuNzVMMTAuMzQ0IDBaTTEwLjY5NyAxMi4yODZMNy45MzUgOC4wMDFMMS4zNzUgMjAuNzVIMTAuNjk3VjEyLjI4NlpNMTIuNTg3IDEyLjI4NkwxNS4zNDggMTYuNTYxTDIxLjkwOSAwLjgxNUgxMi41ODdWMTIuMjg2WiIgZmlsbD0iI0ZGRiIvPgo8L3N2Zz4=&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
