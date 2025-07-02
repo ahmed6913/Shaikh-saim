@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently building next-gen dApps at my Web3 startup
-- 🌐 Skilled in Solidity, React, Node.js, and smart contract architecture
+- 🌐 Skilled in Solidity, React, and smart contract architecture
 - 🛠️ Exploring CI/CD, GitHub Action, and cloud infra for scalable deployment
 - 📈 Passionate about open-source, decentralization, and disruptive tech
 
@@ -20,7 +20,6 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -40,10 +39,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [SmartContractX](https://github.com/shaikhsaim/smartcontractx) | Secure, gas-optimized smart contract boilerplate | Solidity, Hardhat |
-| [DAppHub](https://github.com/shaikhsaim/dapphub) | Decentralized platform for creators | React, Web3.js, IPFS |
-| [ChainTrack](https://github.com/shaikhsaim/chaintrack) | On-chain asset tracker dashboard | Node.js, MongoDB, Ethers.js |
-| [DevOps-lite](https://github.com/shaikhsaim/devops-lite) | CI/CD template for Web3 projects | Docker, GitHub Actions |
+| [web-app-pos with NFT-Marketplahttps://github.com/ahmed6913/web-app-pos.gitce]() | Javascript, React, TailwindCSS, Firebase, | Solidity, Hardhat | Firebase Hosting 
+
 
 ---
 
