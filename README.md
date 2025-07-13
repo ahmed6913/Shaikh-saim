@@ -13,7 +13,7 @@
 - 🌐 Skilled in Blockcahin, React Frontend, and Backend architecture
 - 🛠️ Exploring CI/CD, GitHub Action, and cloud infra for scalable deployment
 - 📈 Passionate about open-source, decentralization, and disruptive tech
-- 🧑‍💻 Can led tech projects from planning to deployment as project coordinator/ product owner
+- 🧑‍💻 Can led tech projects from planning to deployment as a project coordinator/ product owner
 
 ---
 
