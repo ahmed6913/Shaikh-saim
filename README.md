@@ -1,8 +1,8 @@
 
-<h1 align="center">👋 Hi, I'm Shaikh Saim</h1>
+<h1 align="center">👋 Hi, I'm Shaikh Saim Ahmed</h1>
 <p align="center">
   🧑‍💻 Full-Stack Blockchain Developer & Founder of a Web3 Startup <br>
-  🛠️ DevOps Explorer | 📋 Project Management Enthusiast
+  🛠️ DevOps Explorer | 📋 Project & Product Management Enthusiast
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🔭 Currently building next-gen dApps at my Web3 startup
 - 🌐 Skilled in Blockcahin, React Frontend, and Backend architecture
 - 🛠️ Exploring CI/CD, GitHub Action, and cloud infra for scalable deployment
-- 📈 Passionate about open-source, decentralization, and disruptive tech
+- 📈 Passionate about open-source, decentralization, disruptive tech, problem solveing and business logic
 - 🧑‍💻 Can led tech projects from planning to deployment as a project coordinator/ product owner
 
 ---
