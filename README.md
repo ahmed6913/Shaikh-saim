@@ -60,7 +60,7 @@ Make sure to look at my github repos
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [web-app-pos with NFT-Marketplahttps://github.com/ahmed6913/web-app-pos.gitce]() | A modern Point of Sale (POS) system with NFT-based customer rewards and an integrated NFT Marketplace — built for retail businesses looking to reward loyal customers with digital assets. | Javascript, React, TailwindCSS, Firebase, Solidity, Hardhat, go | Firebase Hosting 
+| [web-app-pos with NFT-Marketplahttps://github.com/ahmed6913/web-app-pos.gitce]() | A modern Point of Sale (POS) system with NFT-based customer rewards and an integrated NFT Marketplace — built for retail businesses looking to reward loyal customers with digital assets. | Javascript, React, TailwindCSS, go, Mongodb, MySQL, Firebase, Solidity, Hardhat | Firebase Hosting 
 
 
 ---
