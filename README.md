@@ -84,4 +84,4 @@ Make sure to look at my github repos
 
 This project is open-source under the MIT License.
 You can use, copy, modify, and distribute it for free — just give credit.
-No warranty provided.
+No warranty provided. Do not use my projects
