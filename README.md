@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building next-gen dApps at my Web3 startup
-- 🌐 Skilled in Blockcahin, React Frontend, and Backend architecture
-- 🛠️ Exploring CI/CD, GitHub Action, and cloud infra for scalable deployment
+- 🔭 Currently building next-gen dApps & scalable backend services at my Web3 startup
+- 🌐 Skilled in Blockcahin, React Frontend, and Backend architecture 
+- 🛠️ Exploring CI/CD, GitHub Action, and cloud infra for scalable deployment on cloud server
 - 📈 Passionate about open-source, decentralization, disruptive tech, problem solveing and business logic
 - 🧑‍💻 Can led tech projects from planning to deployment as a project coordinator/ product owner
 
